@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rassul_Kayupov\\source\\repos\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure.csproj",
+      "projectUniqueName": "C:\\Users\\Rassul_Kayupov\\Documents\\GitHub\\RepForAzure\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure.csproj",
       "projectName": "RK_WebApplicationForAzure",
-      "projectPath": "C:\\Users\\Rassul_Kayupov\\source\\repos\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure.csproj",
+      "projectPath": "C:\\Users\\Rassul_Kayupov\\Documents\\GitHub\\RepForAzure\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure.csproj",
       "packagesPath": "C:\\Users\\Rassul_Kayupov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rassul_Kayupov\\source\\repos\\RK_WebApplicationForAzure\\RK_WebApplicationForAzure\\obj\\",
+      "outputPath": "C:\\Users\\Rassul_Kayupov\\Documents\\GitHub\\RepForAzure\\RK_WebApplicationForAzure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
