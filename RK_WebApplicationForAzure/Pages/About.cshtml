@@ -5,5 +5,10 @@
 }
 <h2>@ViewData["Title"]</h2>
 <h3>@Model.Message</h3>
-
+@{
+    foreach (var r in Model.Row)
+    {
+        <div>@r</div>
+    }
+}
 <p>Use this area to provide additional information.</p>
