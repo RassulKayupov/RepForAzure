@@ -1,0 +1,12 @@
+C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=RK_WebApplicationForAzure
+--content-root=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\About.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\Contact.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\Error.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\Index.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\_Layout.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\_ViewImports.cshtml
+--file=C:\Users\Rassul_Kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\Pages\_ViewStart.cshtml

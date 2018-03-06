@@ -1,0 +1,11 @@
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\bin\Release\netcoreapp2.0\RK_WebApplicationForAzure.deps.json
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\bin\Release\netcoreapp2.0\RK_WebApplicationForAzure.runtimeconfig.json
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\bin\Release\netcoreapp2.0\RK_WebApplicationForAzure.runtimeconfig.dev.json
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\bin\Release\netcoreapp2.0\RK_WebApplicationForAzure.dll
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\bin\Release\netcoreapp2.0\RK_WebApplicationForAzure.pdb
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\obj\Release\netcoreapp2.0\RK_WebApplicationForAzure.csprojResolveAssemblyReference.cache
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\obj\Release\netcoreapp2.0\RK_WebApplicationForAzure.csproj.CoreCompileInputs.cache
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\obj\Release\netcoreapp2.0\RK_WebApplicationForAzure.AssemblyInfoInputs.cache
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\obj\Release\netcoreapp2.0\RK_WebApplicationForAzure.AssemblyInfo.cs
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\obj\Release\netcoreapp2.0\RK_WebApplicationForAzure.dll
+c:\users\rassul_kayupov\source\repos\RK_WebApplicationForAzure\RK_WebApplicationForAzure\obj\Release\netcoreapp2.0\RK_WebApplicationForAzure.pdb
