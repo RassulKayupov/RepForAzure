@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RK_WebApplicationForAzure", "RK_WebApplicationForAzure\RK_WebApplicationForAzure.csproj", "{51CBD28A-BF32-43B4-A2A4-1CAD63C3EAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CBD28A-BF32-43B4-A2A4-1CAD63C3EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CBD28A-BF32-43B4-A2A4-1CAD63C3EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CBD28A-BF32-43B4-A2A4-1CAD63C3EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CBD28A-BF32-43B4-A2A4-1CAD63C3EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56928E2D-D3AE-4A67-A9EA-D241AEB8743E}
+	EndGlobalSection
+EndGlobal
