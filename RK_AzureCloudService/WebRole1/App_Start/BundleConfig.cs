@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace RK_MyWebApp
+namespace WebRole1
 {
     public class BundleConfig
     {

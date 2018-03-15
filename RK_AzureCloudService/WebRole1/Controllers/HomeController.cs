@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace RK_MyWebApp.Controllers
+namespace WebRole1.Controllers
 {
     public class HomeController : Controller
     {
