@@ -6,6 +6,7 @@
     <None Remove="Properties\PublishProfiles\RK-MyApp - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="log4net.Appender.Azure" Version="1.4.3" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
   </ItemGroup>
   <ItemGroup>
